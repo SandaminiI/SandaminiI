@@ -19,6 +19,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandaminii&show_icons=true&locale=en" alt="sandaminii" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaminii&show_icons=true&locale=en&layout=compact" alt="sandaminii" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaminii&langs_count=8&show_icons=true&locale=en&layout=compact" alt="sandaminii" /></p>
 
 
