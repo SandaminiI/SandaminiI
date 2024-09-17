@@ -49,6 +49,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaminii&hide=Hack&langs_count=8&show_icons=true&locale=en&layout=compact" alt="sandaminii" />
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandaminii" alt="sandaminii" /></a> </p>
+
 
 
 
