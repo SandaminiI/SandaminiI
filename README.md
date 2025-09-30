@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaminii&label=Profile%20views&color=0e75b6&style=flat" alt="sandaminii" /> </p>
 
-- 🌱 I’m currently learning **React Native & Firebase**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Full Stack development**
 
 - 📫 How to reach me **indrachapavithanage306@gmail.com**
 
